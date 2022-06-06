@@ -1,0 +1,5 @@
+y =(input("type 'my favorite number is ' and enter your favorite number: "))
+x =(input("type 'my age is ' and type your age: "))
+a = int(y[24:26])
+b = int(x[11:13])
+print(a*b)
